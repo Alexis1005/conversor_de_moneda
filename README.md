@@ -16,9 +16,28 @@ Permite transformar valores entre distintas divisas utilizando tasas de cambio a
 ## 📸 Imágenes de muestra
   <p align="center"> 
     <img src="https://github.com/user-attachments/assets/062df208-f2ca-4f9a-9691-969f867fd68f" width="400" height="300">
+  </p>
+  <p align="center"> 
     <img src="https://github.com/user-attachments/assets/e23ec33f-7955-4602-aa98-ac3778ec293b" width="400" height="300">
+  </p>
+  <p align="center"> 
     <img src="https://github.com/user-attachments/assets/c09942db-b543-4219-808c-93ee1774de83" width="400" height="300">
   </p>
+
+---
+
+
+## 🔗 API Utilizada (ExchangeRate API)
+El sistema consulta tasas en tiempo real utilizando una API externa, como:
+
+**ExchangeRate-API**  
+👉 https://www.exchangerate-api.com/
+
+Características:
+- Respuestas en formato JSON  
+- Tasas actualizadas  
+- Fácil de integrar  
+- Versión gratuita disponible  
 
 ---
 
